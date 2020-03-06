@@ -1,0 +1,14 @@
+body{
+    background-color: deepskyblue;
+    color: white;
+}
+
+#title {
+    text-align: center;
+}
+
+#counter {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 150px;
+}
